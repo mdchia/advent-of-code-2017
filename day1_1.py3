@@ -8,7 +8,7 @@ if sys.argv:
         puzzle_input = int(raw)
     except ValueError:
         print("Puzzle input needs to be a number")
-        exit
+        exit()
 else:
     puzzle_input=sys.argv[1]
 
