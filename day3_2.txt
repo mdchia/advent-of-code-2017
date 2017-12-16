@@ -1,0 +1,9 @@
+This is OEIS A141481, which conveniently has a table of n=1 to 961.
+
+"What is the first value written that is larger than your puzzle input?
+Your puzzle input is still 312051."
+
+Looking up the table,
+a(60)=295229
+a(61)=312453
+I might code this up if I have time, if not this hack stays
